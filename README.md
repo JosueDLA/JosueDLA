@@ -31,11 +31,11 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" align="left" height="30px" style="padding: 5px;">
 <img src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" alt="GitHub" align="left" height="30px" style="padding: 5px;">
 <img src="https://www.postman.com/assets/logos/postman-logo-stacked.svg" alt="Postman" align="left" height="30px" style="padding: 5px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trello-logo-blue.svg/1024px-Trello-logo-blue.svg.png" alt="Trello" align="left" height="30px" style="padding: 5px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="Netbeans" align="left" height="30px" style="padding: 5px;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" align="left" height="30px" style="padding: 5px;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" alt="Raspberry Pi" align="left" height="30px" style="padding: 5px;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="Arduino" align="left" height="30px" style="padding: 5px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trello-logo-blue.svg/1024px-Trello-logo-blue.svg.png" alt="Trello" align="left" height="30px" style="padding: 5px;">
 
 </br></br></br>
 
