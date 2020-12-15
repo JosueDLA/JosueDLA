@@ -37,4 +37,4 @@
 
 ## Stats
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=JosueDLA&theme=midnight-purple)](https://github.com/JosueDLA/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=JosueDLA&theme=midnight-purple)](https://josuedla.github.io/)
