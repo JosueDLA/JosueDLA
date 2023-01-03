@@ -39,4 +39,4 @@
 
 ## Stats
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=JosueDLA&theme=midnight-purple)](https://josuedla.github.io/)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=JosueDLA&theme=midnight-purple&count_private=true)](https://josuedla.github.io/)
