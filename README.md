@@ -39,4 +39,4 @@
 
 ## Stats
 
-[![My github stats](https://github-readme-stats-git-main-josuedla.vercel.app/api?username=JosueDLA&show_icons=true&theme=midnight-purple&include_all_commits=true)](https://josuedla.github.io/)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=JosueDLA&show_icons=true&theme=midnight-purple&include_all_commits=true)](https://josuedla.github.io/)
